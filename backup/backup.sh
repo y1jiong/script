@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # This is an auto backup bash shell script.
-# by yzy613
+# by y1jiong
 
 WORKING_PATH='/opt'
 BACKUP_PATH='/opt/mc/java'
